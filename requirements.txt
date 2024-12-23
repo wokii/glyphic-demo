@@ -1,0 +1,9 @@
+anthropic==0.42.0
+numpy==2.2.1
+pandas==2.2.3
+pydantic==2.10.4
+pydantic-settings==2.7.0
+pydantic_core==2.27.2
+python-dotenv==1.0.1
+streamlit==1.41.1
+toml==0.10.2
