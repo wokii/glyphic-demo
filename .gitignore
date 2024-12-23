@@ -1,2 +1,23 @@
-.venv
+# Python virtual environment
+.venv/
+
+# Environment variables
 .env
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Testing
+coverage/
+
+# Local development
+*.log
