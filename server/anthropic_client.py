@@ -66,4 +66,3 @@ class CallAnalyzer:
             insights.append(f"Q: {question}\nA: {answer}\n")
 
         return "\n".join(insights)
-
